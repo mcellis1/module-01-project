@@ -1,3 +1,6 @@
+/* I organized the CSS elements in a logical order, so that the global modifiers are
+listed first, then classes, then IDs. I grouped them based on which section they are in. */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -70,6 +73,9 @@ p {
     background-color: #2589bd;
 }
 
+/* I consolidated three classes into one here as well as their modifiers since they all used the
+same modifiers into one to follow the "Do not repeat yourself" best practice that programmers use. */
+
 .benefits-box {
     margin-bottom: 32px;
     color: #ffffff;
@@ -85,6 +91,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* I consolidated three classes into one here as well as their modifiers since they all used the
+same modifiers into one to follow the "Do not repeat yourself" best practice that programmers use. */
 
 .left-boxes {
     margin-bottom: 20px;
@@ -115,9 +124,15 @@ p {
     font-size: 20px;
 }
 
+/* I turned both of these classes into IDs, since they are only applied specifically one element
+that needs to take priority over any other modifiers. */
+
 #seo {
     color: #d9dcd6;
 }
+
+/* I also edited the #hero to make the image appear normal on all size screens, so that it doesn't
+stretch when the screen is too small or large. */
 
 #hero {
     height: 100%;
