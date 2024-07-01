@@ -23,7 +23,7 @@ Whichever banner you click will take you to the section lower on the webpage wit
 
 ## Credits
 
-This code was pulled entirely from user https://github.com/Georgeyoo and modified to meet the standards assigned by Vanderilt University instructors for the purpose of testing knowledge and skills acquired in the first week of coding bootcamp.
+This code was pulled entirely from user https://github.com/Georgeyoo from the repository https://github.com/coding-boot-camp/urban-octo-telegramhttps://github.com/coding-boot-camp/urban-octo-telegram and modified to meet the standards assigned by Vanderilt University instructors for the purpose of testing knowledge and skills acquired in the first week of coding bootcamp.
 
 ## License
 
