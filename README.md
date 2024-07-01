@@ -23,8 +23,8 @@ Whichever banner you click will take you to the section lower on the webpage wit
 
 ## Credits
 
-This code was pulled entirely from the 
+This code was pulled entirely from user https://github.com/Georgeyoo and modified to meet the standards assigned by Vanderilt University instructors for the purpose of testing knowledge and skills acquired in the first week of coding bootcamp.
 
 ## License
 
-Refer to the "LICENSE" file for licensing information.
+Refer to the "LICENSE" file for licensing information. This is not original work. This is refactored code.
