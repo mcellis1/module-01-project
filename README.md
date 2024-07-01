@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This project refactored the existing code for a website, so that everyone will easily use the website. The HTML was reconfiguured to follow a more logical order, so that a user who uses a screnreader will be able to read the website easier, and the screenreader will be able to read the alt text for the images added to the project. Practice the scout rule, by leaving the code cleaner and more organized. Making websites accessible is necessary and healthy for a website's survival, so that it is presentable for all people.
 
 ## Installation
