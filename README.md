@@ -17,6 +17,9 @@ When operating the website, you can click on the banners at the top of the page 
 
 ![image of the website with banner cards circled in red](https://github.com/mcellis1/module-01-project/blob/main/assets/images/Screenshot%202024-07-01%20164652.png)
 
+Whichever banner you click will take you to the section lower on the webpage with the corresponding title.
+
+![image of the website content boxes with their matching titles the banner cards circled in red](https://github.com/mcellis1/module-01-project/blob/main/assets/images/Screenshot%202024-07-01%20164831.png)
 
 ## Credits
 
