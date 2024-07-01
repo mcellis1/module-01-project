@@ -14,9 +14,9 @@ To view the website deployed on GitHub Pages, follow the link: https://mcellis1.
 ## Usage
 
 When operating the website, you can click on the banners at the top of the page to direct you to that corresponding section of the page to read more about the resources there are to offer.
-```md
-  ![image of the website with banner cards circled in red](assets/images/Screenshot 2024-07-01 164652.png)
-```
+
+![image of the website with banner cards circled in red](assets/images/Screenshot 2024-07-01 164652.png)
+
 
 ## Credits
 
